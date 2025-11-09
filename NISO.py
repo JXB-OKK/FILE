@@ -1,3 +1,3 @@
 if __name__ == "__main__":
-    from NISO import approval
-    approval()
+    from JMRA import Main_JMRA
+    Main_JMRA()
